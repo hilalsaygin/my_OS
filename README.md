@@ -1,9 +1,3 @@
-# CSE312 Operating Systems — Homework #1
-**Gebze Technical University | Department of Computer Engineering**  
-**Student:** R. Hilal Saygin | **ID:** 200104004111
-
----
-
 ## Project Overview
 
 This project implements a custom micro-kernel operating system that runs in a VirtualBox virtual machine. It is split into two parts:
